@@ -10,10 +10,10 @@ pip或者pip3 install football-version.tar.gz -U
 
 #### 启动项目
 在football_web目录里面执行如下命令
-python run.py
+python3 run.py
 
 #### 启动定时器
-python run_timer.py
+python3 run_timer.py
 
 #### 启用代理功能
 football/crawler/craImpl/cra_data.py
